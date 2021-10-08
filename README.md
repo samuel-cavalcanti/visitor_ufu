@@ -111,13 +111,14 @@ public class NumberTest {
 ```
 
 Passando nos testes
+
 ![Passando nos testes](docs/passed_visitor.png)
 
 Também foi feito o __SumMultiplyVisitor__ e __MultiplyVisitor__
 que olhando de perto os testes do visitor consegue observar no terminal:
+
 ![Visitor test](docs/visitor_test_pass.png)
 
-output similar ao do vídeo, __considerando que certos
-valores não foram mostrados visto que eles já são
-verificados pelos testes unitários__
+output similar ao do vídeo, __considerando que certos valores não foram mostrados visto que eles já são verificados
+pelos testes unitários__
 ![Output video](docs/console_output.png)
